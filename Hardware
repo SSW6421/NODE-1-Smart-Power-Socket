@@ -1,2 +1,11 @@
+# Hardware Files
+
+This folder contains the complete hardware design for the NODE 1 smart power socket.
+
+## Included
+- **NODE1_Schematic.pdf** — Full circuit schematic
+- **NODE1_PCB_Top.png** — PCB top-layer render
+- **NODE1_PCB_Bottom.png** — PCB bottom-layer render
+- **NODE1_Gerber.zip** — Ready-to-manufacture Gerber files
 
 
